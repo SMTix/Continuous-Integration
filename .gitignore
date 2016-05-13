@@ -1,1 +1,6 @@
+# Ignore Makefile
 /Makefile
+# Ignore ".o" file's
+*.o
+# Ignore bin file
+main
